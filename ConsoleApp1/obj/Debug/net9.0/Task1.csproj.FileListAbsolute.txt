@@ -1,0 +1,14 @@
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Task1.exe
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Task1.deps.json
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Task1.dll
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Task1.pdb
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.dll
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\Task1.dll
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.pdb
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Users\ryabova_na\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\Task1.dll
